@@ -16,15 +16,7 @@ It merges, cleans, and analyzes multiple CSV files, providing **data-driven answ
 ---
 
 ## Project Structure
-├── data/ # Raw and processed datasets
-├── prompts/ # Prompt templates for chatbot logic
-├── static/ # Static files (e.g. images, css)
-├── .env # Environment variables (e.g. API keys)
-├── .gitignore # Ignored files configuration
-├── app.py # Main chatbot application
-├── data_test.ipynb # Data testing and exploration notebook
-├── pandas.ipynb # Data cleaning and preprocessing notebook
-└── sales.db # SQLite database with merged sales data
+<pre> ```text ├── data/ # Raw and processed datasets ├── prompts/ # Prompt templates for chatbot logic ├── static/ # Static files (e.g. images, css) ├── .env # Environment variables (e.g. API keys) ├── .gitignore # Ignored files configuration ├── app.py # Main chatbot application ├── data_test.ipynb # Data testing and exploration notebook ├── pandas.ipynb # Data cleaning and preprocessing notebook └── sales.db # SQLite database with merged sales data ``` </pre>
 
 ---
 
